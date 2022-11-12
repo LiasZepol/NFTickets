@@ -34,13 +34,13 @@ export default function Example() {
               <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
                 <div className="flex flex-shrink-0 items-center">
                   <img
-                    className="block h-8 w-auto lg:hidden"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+                    className="block h-12 w-auto lg:hidden"
+                    src="https://res.cloudinary.com/todoenminutos/image/upload/v1668281949/CM/logo-no-background_n2m4ao.png"
                     alt="Your Company"
                   />
                   <img
-                    className="hidden h-8 w-auto lg:block"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+                    className="hidden h-12 w-auto lg:block"
+                    src='https://res.cloudinary.com/todoenminutos/image/upload/v1668281949/CM/logo-no-background_n2m4ao.png'
                     alt="Your Company"
                   />
                 </div>
@@ -78,7 +78,7 @@ export default function Example() {
                       <span className="sr-only">Open user menu</span>
                       <img
                         className="h-8 w-8 rounded-full"
-                        src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
+                        src="https://images.unsplash.com/photo--5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                         alt=""
                       />
                     </Menu.Button>
